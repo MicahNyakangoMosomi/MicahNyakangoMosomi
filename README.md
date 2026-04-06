@@ -1,19 +1,15 @@
-# Micah_Mosomi 
-🧠I'm Micah, a builder focused on solving systemic inefficiencies—not just writing code, but engineering clarity where there's chaos.  <br/> I design full-stack solutions and AI-driven systems that streamline workflows, boost decision-making, and replace repetitive work with intelligent automation. <br/>
+# Micah Mosomi  
 
-**🧠 What I Solve:**  <br/>
-Disconnected systems → integrated platforms  <br/>
-Manual workflows → AI-powered automations  <br/>
-Clunky UX → interfaces people actually want to use  <br/>
+Machine Learning & AI Developer focused on building intelligent systems that turn data into actionable decisions. I design predictive models, AI agents, and scalable solutions that automate workflows and improve decision-making.
 
-**🧩 What I Build:**
-AI agents that make decisions, not just predictions  <br/>
-Dashboards that turn noise into actionable insight  <br/>
-Full-stack products that scale from prototype to production  <br/>
+**Roles:**  
+Data Scientist | Product Analyst | Predictive Analyst | Data Analyst | Strategy Consultant | Social Entrepreneur  
 
-**📍My Edge:** <br/>
-I don’t just build features, I identify friction, map out the system, and deploy intelligent architecture that works for people and business goals.  <br/>
-Let’s build tools that think, systems that scale, and interfaces that feel like an upgrade to reality.  <br/>
+**Skills:**  
+Machine Learning | Advanced Statistics | Statistical Modeling | Python | SQL | Business Intelligence  
+
+**Tools:**  
+Python, SQL, TensorFlow, PyTorch, Tableau, Power BI, Microsoft Excel  
 
 
 
